@@ -1,6 +1,6 @@
 {
   "name": "ionic-stepper",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "steppers components for Ionic / ionic2",
   "main": "dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HsuanXyz/ionic-stepper.git"
+    "url": "git+https://github.com/kurpav/ionic-stepper.git"
   },
   "dependencies": {},
   "devDependencies": {
